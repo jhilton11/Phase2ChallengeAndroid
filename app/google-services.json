@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6483909688",
+    "firebase_url": "https://phase2challengeandroid.firebaseio.com",
+    "project_id": "phase2challengeandroid",
+    "storage_bucket": "phase2challengeandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6483909688:android:0b79aa2d40c4a1d3",
+        "android_client_info": {
+          "package_name": "com.appify.phase2challenge_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6483909688-6cr3n562mquouuof50jdb17gbith7u60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appify.phase2challenge_android",
+            "certificate_hash": "81c7813677d0608dee8ab20907f62493ae49f8b2"
+          }
+        },
+        {
+          "client_id": "6483909688-5ip4n42em9ov7upf4vn1vtjrtoqv2l5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7V580bHe5Z5VNcglLIMMjR_hG-IxKzf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6483909688-5ip4n42em9ov7upf4vn1vtjrtoqv2l5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
